@@ -1,9 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
 body{
 	text-align: center;
 }
+.heading hr{
+	border: .1px solid black;
+	width: 100%;
+	
+}
+.heading h1{
+	float: left;
+	padding-top: 20px;
+	padding-left: 20px;
+	font-family: 'Abril Fatface', cursive;
+}
+
 img{
 	object-fit: cover;
 	width: 1020px;
 	height: 500px;
 	max-width: 100%;
+}
+.bg{
+	background: #024760;
+	width: 100%;
+	
+}
+cite{
+	float: left;
+	padding-left: 20px; 
+}
+.content1 p{
+	text-align: left;
+	margin: 30px;
+	margin-top: 40px;
+	font-family: 'Arvo', serif;
+
+	
 }
