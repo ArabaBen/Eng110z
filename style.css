@@ -70,7 +70,7 @@ cite{
 .content3{
 	
 }
-.content3 p{
+.content3 p, .content4 p{
 	text-align: left;
 	padding-left: 18%;
 	padding-right: 18%;
@@ -79,16 +79,40 @@ cite{
 .arrows{
 	padding: 20px;
 	margin: 40px;
-	font-size: 13px;
 }
 #leftt{
 	float: left; 
-	font-size: 30px;
+	font-size: 38px;
 }
 #rightt{
 	float: right;
-	font-size: 30px;
+	font-size: 38px;
 }
 .arrows a{
 	color: black;
+	
+}
+
+.content4{
+	
+}
+.list4{
+	margin-top: 80px;
+	width: 100%;
+	height: auto;
+	
+
+}
+.list4 h3{
+	float: left;
+	text-align: left;
+	padding-left: 10%;
+	font-size: 20px;
+	
+}
+
+.end{
+	width: 100%;
+	bottom: 100%;
+	t
 }
