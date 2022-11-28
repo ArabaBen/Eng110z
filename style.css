@@ -59,11 +59,14 @@ font-family: 'Staatliches', cursive;
 .content2{
 	
 }
-.content2 h2{
-	font-family: 'Tenor Sans', sans-serif;
-	font-size: 26px;
+.content2 h4{
+font-family: 'Staatliches', cursive;
+	font-size: 45px;
 	letter-spacing: 1.2px;
 	word-spacing: 5px;
+	margin: 50px;
+	margin-top: 80px;
+	margin-bottom: 90px;
 	
 	
 }
@@ -105,8 +108,10 @@ font-family: 'Staatliches', cursive;
 	
 }
 
-.content4{
-	
+.content4 h1{
+		font-family: 'Tenor Sans', sans-serif;
+	font-size: 45px;
+	font-weight: bold;
 }
 .list4{
 	margin-top: 80px;
