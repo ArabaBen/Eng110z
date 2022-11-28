@@ -166,6 +166,18 @@ margin-left: 1280px;
 	color: black;
 }
 
-.content5{
-	
+.content5 h2{
+		font-family: 'Tenor Sans', sans-serif;
+
+}
+.content5 ol{
+	text-align: left;
+	margin-left: 55px;
+	margin-right: 55px;
+	font-size: 18px;
+
+}
+.content5 li{
+		margin-bottom: 25px;
+
 }
